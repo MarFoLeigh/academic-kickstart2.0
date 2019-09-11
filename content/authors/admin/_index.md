@@ -17,7 +17,7 @@ organizations:
 - name: Carleton University
   url: ""
 
-Short bio (displayed in user profile at end of posts)
+# Short bio (displayed in user profile at end of posts)
 bio: My research interests include Canadian history, gentrification/deindustrialization studies, interpretation and museum studies, medical history, and place studies. 
 
 # interests:
