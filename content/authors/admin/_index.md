@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Marissa Foley
 
 # Username (this should match the folder name)
 authors:
@@ -10,22 +10,22 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: MA in Public History with specialization in Digital Humanities
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Carleton University
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+Short bio (displayed in user profile at end of posts)
+bio: My research interests include Canadian history, gentrification/deindustrialization studies, interpretation and museum studies, medical history, and place studies. 
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+# interests:
+- netflix
+- soft foods
+- drama
 
-education:
+# education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: Stanford University
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Marissa Foley is a second year MA student studying public history and digital humanities at Carleton University. Her research focuses on deindustrialization and gentrification in Hamilton, Ontario. Using participatory-based research methods to collect oral histories, Marissa's work will present community stories of the Jamesville neighbourhood through an audio-guided walking tour.  
