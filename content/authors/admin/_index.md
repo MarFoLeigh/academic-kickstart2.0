@@ -20,22 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Canadian history, gentrification/deindustrialization studies, interpretation and museum studies, medical history, and place studies. 
 
-# interests:
+interests:
 - netflix
 - soft foods
 - drama
-
-# education:
-  courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -65,9 +53,9 @@ email: ""
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
+# user_groups:
+#  - Researchers
+#  - Visitors
 ---
 
 Marissa Foley is a second year MA student studying public history and digital humanities at Carleton University. Her research focuses on deindustrialization and gentrification in Hamilton, Ontario. Using participatory-based research methods to collect oral histories, Marissa's work will present community stories of the Jamesville neighbourhood through an audio-guided walking tour.  
