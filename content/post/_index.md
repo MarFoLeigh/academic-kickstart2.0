@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Hi.
 
 # View.
 #   1 = List
@@ -12,3 +12,4 @@ header:
   caption: ""
   image: ""
 ---
+Hi. 
