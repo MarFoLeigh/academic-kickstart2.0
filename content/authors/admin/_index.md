@@ -10,20 +10,20 @@ authors:
 superuser: true
 
 # Role/position
-role: MA in Public History with specialization in Digital Humanities
+role: MA in Public History with a specialization in Digital Humanities
 
 # Organizations/Affiliations
 organizations:
 - name: Carleton University
-  url: ""
+  url: "https://carleton.ca/history/people/marissa-foley/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Canadian history, gentrification/deindustrialization studies, interpretation and museum studies, medical history, and place studies. 
+bio: My research interests include Canadian history, deindustrialization and gentrification, digital humanities, memory, space and place, and public history. 
 
 interests:
 - netflix
 - soft foods
-- drama
+- sewing
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -35,7 +35,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -58,4 +58,4 @@ email: ""
 #  - Visitors
 ---
 
-Marissa Foley is a second year MA student studying public history and digital humanities at Carleton University. Her research focuses on deindustrialization and gentrification in Hamilton, Ontario. Using participatory-based research methods to collect oral histories, Marissa's work will present community stories of the Jamesville neighbourhood through an audio-guided walking tour.  
+Marissa Foley is a second year MA student studying public history and digital humanities at Carleton University. Her research explores digital storytelling’s potential and limitations as a tool for public history by developing a geotagged audio tour through the recently-gentrified Jamesville neighborhood of Hamilton, Ontario. In telling a story of place that makes the neighbourhood’s industrial past more visible, audible, and knowable, my work offers a counter-commemoration to that which currently exists in Jamesville. In the making and then testing of this project, I am particularly interested in researching if and how a critically-engaged, activist public history can find an audience to reclaim histories that are being forgotten or are under threat of being forgotten.  
