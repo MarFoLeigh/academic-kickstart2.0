@@ -14,11 +14,11 @@ role: MA in Public History with a specialization in Digital Humanities
 
 # Organizations/Affiliations
 organizations:
-- name: ORCID 0000-0003-4313-4108
-  url: https://orcid.org/0000-0003-4313-4108
 - name: Carleton University
   url: "https://carleton.ca/history/people/marissa-foley/"
-
+- name: ORCID 0000-0003-4313-4108
+  url: https://orcid.org/0000-0003-4313-4108
+  
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Canadian history, deindustrialization and gentrification, digital humanities, memory, space and place, and public history. 
 
