@@ -12,10 +12,10 @@ superuser: true
 # Role/position
 role: MA in Public History with a specialization in Digital Humanities
 
-ORCID: [https://orcid.org/0000-0003-4313-4108] (https://orcid.org/0000-0003-4313-4108)
-
 # Organizations/Affiliations
 organizations:
+- name: ORCID 0000-0003-4313-4108
+  url: https://orcid.org/0000-0003-4313-4108
 - name: Carleton University
   url: "https://carleton.ca/history/people/marissa-foley/"
 
