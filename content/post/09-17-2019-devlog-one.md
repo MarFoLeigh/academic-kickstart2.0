@@ -1,5 +1,5 @@
 ---
-title: Devlog One
+title: "Devlog One: Messing things up" 
 summary: Look, a new post!
 date: "2019-09-12"
 
@@ -14,16 +14,7 @@ header:
   image: ""
 ---
 
-# Hi.
+# A detailed account of how I goofed up my netlify
 
-This is a demo post. Ta-da.
-
-Links look like this [here's a link to google.com](http://google.com).
-
-## Hello.
-
-**Another** greeting. 
-
-### Hey.
-
-The most _informal_ heading.
+What process I took
+The problems with it. 
