@@ -14,4 +14,4 @@ header:
   image: ""
 ---
 
-# The following details all the **neat things** I found and learned about DH over the past two weeks. 
+# The following details all the neat things I found and learned about DH over the past two weeks. 
