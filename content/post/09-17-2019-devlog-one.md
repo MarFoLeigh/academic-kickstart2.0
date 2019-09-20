@@ -37,3 +37,11 @@ Moving forward, everything has been going a lot more smoothly, and I've employed
 
 All in all, it was a rough start, but things are finally rolling. 
 
+
+
+
+
+______________________________________________________________________________________________________________________________
+Banner created on [Canva](https://www.canva.com/) 
+Background Photo by [Thomas Kinto on Unsplash](https://unsplash.com/@thomaskinto) 
+Icon created by [Maxim Basinski from Noun Project](https://thenounproject.com/search/?q=coding&i=1316502)
