@@ -50,5 +50,3 @@ email: ""
 ---
 
 Marissa Foley is a second year MA student studying public history and digital humanities at Carleton University. Her research explores digital storytelling’s potential and limitations as a tool for public history by developing a podcast-guided walking tour through the recently-gentrified Jamesville neighborhood of Hamilton, Ontario. In telling a story of place that makes the neighbourhood’s industrial past more visible, audible, and knowable, my work offers a counter-commemoration to that which currently exists in Jamesville. In the making and then testing of this project, I am particularly interested in researching if and how a critically-engaged, activist public history can find an audience to reclaim histories that are being forgotten or are under threat of being forgotten.  
-
-Marissa is a Kraft peanut butter enthusiast, and is welcoming to sponsorship opportunities. 
