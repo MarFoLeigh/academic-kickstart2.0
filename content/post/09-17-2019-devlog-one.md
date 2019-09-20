@@ -1,5 +1,5 @@
 ---
-title: "Devlog One: Messing things up" 
+title: "Devlog One: Messing Things Up" 
 summary: A detailed account of how this site almost wasn't
 date: "2019-09-12"
 
