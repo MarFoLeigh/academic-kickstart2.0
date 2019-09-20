@@ -11,7 +11,7 @@ comments: false  # Show comments?
 # Optional header image (relative to `static/img/` folder).
 header:
   caption: ""
-  image: "Keep Going.png"
+  image: "DevlogBanner.png"
 ---
 
 # A detailed account of how this site almost wasn't
