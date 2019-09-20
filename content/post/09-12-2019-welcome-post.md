@@ -1,6 +1,6 @@
 ---
-title: Hi
-summary: Look, a new post!
+title: Hi! Welcome! 
+summary: Look, the first post!
 date: "2019-09-12"
 
 reading_time: true  # Show estimated reading time?
@@ -14,16 +14,6 @@ header:
   image: ""
 ---
 
-# Hi.
+Welcome to my site! This website has been created for Prof. Shawn Graham's [*Digital Guerrilla Public History*](https://github.com/shawngraham/guerrilla-dh/wiki) course at Carleton University. Here, I will be posting devlogs - aka development logs - tracking my work, experiences, and discoveries during the course of the semester.   
 
-This is a demo post. Ta-da.
-
-Links look like this [here's a link to google.com](http://google.com).
-
-## Hello.
-
-**Another** greeting. 
-
-### Hey.
-
-The most _informal_ heading.
+Here we go! 
