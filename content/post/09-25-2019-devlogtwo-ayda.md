@@ -68,3 +68,9 @@ capacity for participation/submissions by other people
 + what are the rights of use of images in, for example, the National Gallery of Canada?
 + ethics of appropriating another artist’s work to fit our own narrative?
 + if we make a call for submissions from local artists, how do we approach the issue of compensation? As we’re not in a position to offer financial payment for their labour, how do we approach this?
+
+
+______________________________________________________________________________________________________________________________
+Banner created on [Canva](https://www.canva.com/).
+Background Photo by [Lala V on Unsplash](https://unsplash.com/@lala_v?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). 
+Icon created by [Maxim Basinski from Noun Project](https://thenounproject.com/search/?q=coding&i=1316502).
