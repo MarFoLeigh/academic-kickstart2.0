@@ -1,6 +1,6 @@
 ---
 title: "Devlog Two: Collaboration and Brainstorming" 
-summary:The first entry in a series of collaborative posts about Ayda and Marissa's DH project.
+summary: The first entry in a series of collaborative posts about Ayda and Marissa's DH project.
 date: "2019-09-25"
 
 reading_time: true  # Show estimated reading time?
