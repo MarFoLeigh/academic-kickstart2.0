@@ -73,4 +73,4 @@ capacity for participation/submissions by other people
 ______________________________________________________________________________________________________________________________
 Banner created on [Canva](https://www.canva.com/).
 Background Photo by [Lala V on Unsplash](https://unsplash.com/@lala_v?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText). 
-Icon created by [Maxim Basinski from Noun Project](https://thenounproject.com/search/?q=coding&i=1316502).
+Icon created by [Kantor Tegalsari from Noun Project](https://thenounproject.com/search/?q=art%20gallery&i=2664156).
