@@ -43,23 +43,23 @@ potential theme in the Bywayd Market: bringing feminine aesthetics to a historic
 fun fact: if you search “Byward Market” in the National Gallery’s online collection, ten results come up. All of the artworks are by men.
 
 ## Components
-artworks
++ artworks
 sourced from open collections? created by us? public call for artwork? a combination of all three?
 
-map
-google maps code – GitHub (range queries, point A to point b)
++ map
+*google maps code – GitHub (range queries, point A to point b)*
 
-geotagging
++ geotagging
 
-think Echoes but with visual images
++ think Echoes but with visual images
 
-QGIS plugin?
++ QGIS plugin?
 
-augmented reality?
++ augmented reality?
 
-capacity for participation/submissions by other people
++ capacity for participation/submissions by other people
 
-##Interface options
+## Interface options
 + app/mobile-friendly site (designed to be used outside, on the streets, as you move through them)
 + website (designed to be used at home, in the ‘planning’ phase of a trip – hopefully sparking reflection later on when they are in the place in question
 + ebook or zine developed alongside the exhibit – think of it as an exhibition text
