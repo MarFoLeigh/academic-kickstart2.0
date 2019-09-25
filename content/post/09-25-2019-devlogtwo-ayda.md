@@ -18,7 +18,7 @@ header:
 
 *Here is Ayda's first devlog on our project:*
 
-## What we want to do
+## **What we want to do**
 a visual art GPS exhibit OR augmented reality place-based art exhibit
 
 *associate each street with a piece of artwork that visually tells the story of or offers an alternative to a street name. When someone submits a route for places in the city, the streets that are a part of that route & their associated artworks become a personalized curated visual art exhibit they can experience as they walk their chosen route.*
@@ -26,6 +26,7 @@ a visual art GPS exhibit OR augmented reality place-based art exhibit
 (all cred to Marissa for this very cool jumping off point for our project)
 
 **AR option**: the street sign itself triggers an artwork to pop up on a device’s screen
+
 
 ## Goals
 offer to people who are exploring the streets of Ottawa
@@ -35,12 +36,14 @@ this will involve:
 + a different way to experience the streets as you’re walking through them 
 + an alternative way to identify and historicize the streets than the names
 
+
 ## Potential geographic focus
 **ByWard Market** - street names in the Byward Market include William, George, Cumberland, St. Partick, York, Daly, Stewart, Murray…
 
 potential theme in the Bywayd Market: bringing feminine aesthetics to a historically (and presently) male-dominated space
 
 fun fact: if you search “Byward Market” in the National Gallery’s online collection, ten results come up. All of the artworks are by men.
+
 
 ## Components
 + artworks
@@ -59,12 +62,14 @@ sourced from open collections? created by us? public call for artwork? a combina
 
 + capacity for participation/submissions by other people
 
+
 ## Interface options
 + app/mobile-friendly site (designed to be used outside, on the streets, as you move through them)
 + website (designed to be used at home, in the ‘planning’ phase of a trip – hopefully sparking reflection later on when they are in the place in question
 + ebook or zine developed alongside the exhibit – think of it as an exhibition text
 
-##Concerns
+
+## Concerns
 + what are the rights of use of images in, for example, the National Gallery of Canada?
 + ethics of appropriating another artist’s work to fit our own narrative?
 + if we make a call for submissions from local artists, how do we approach the issue of compensation? As we’re not in a position to offer financial payment for their labour, how do we approach this?
