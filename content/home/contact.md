@@ -24,7 +24,7 @@ email_form = 0
   #   Any HTML color name or Hex value is valid.
   
   # Background color.
-  color = "E8F8FF"
+  # color = "E8F8FF"
   
   # Background gradient.
   # gradient_start = "DeepSkyBlue"
