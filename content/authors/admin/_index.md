@@ -29,7 +29,7 @@ bio: My research interests include Canadian history, deindustrialization and gen
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:MarissaFoley@cmail.carleton.ca".
+  link: '#contact'  # For a direct email link, use "MarissaFoley@cmail.carleton.ca".
 - icon: github
   icon_pack: fab
   link: https://github.com/MarFoLeigh
