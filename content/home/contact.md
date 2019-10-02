@@ -23,7 +23,7 @@ email_form = 0
   #   Choose a light or dark text color by setting `text_color_light`.
   #   Any HTML color name or Hex value is valid.
   
-  Background color.
+  # Background color.
   color = "E8F8FF"
   
   # Background gradient.
