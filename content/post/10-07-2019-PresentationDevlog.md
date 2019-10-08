@@ -14,6 +14,7 @@ header:
   image: "dhprojectheader.png"
 
 ---
+To read this post in my local repository and see associated images, go [here](https://github.com/MarFoLeigh/academic-kickstart2.0/blob/master/content/post/10-07-2019-PresentationDevlog.md)
 
 **What stories do you think you’ll be addressing? Why this story?**
 ===
