@@ -22,12 +22,9 @@ header:
 This project, the stories it tackles, and its methods are conceptualized through four main pillars:
 ---
 1. Canadian landscape art & the Group of Seven 
-
 2. Digital interventions in museum spaces  
-
 3. Climate context of 2019 
-
-4.Historians as activists 
+4. Historians as activists 
 
 Our aim is to enter into a dialogue with the artwork, using digital tools to explore changing environmental realities. 
 
