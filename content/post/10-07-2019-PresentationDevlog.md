@@ -31,7 +31,7 @@ Our aim is to enter into a dialogue with the artwork, using digital tools to exp
 
 This project is not done with the intention of discrediting the work of the Group of Seven. Rather, the intention is to identify the nuance and environmental-consciousness already present in their works and reconcile this with our contemporary context.  
 
-<img src="static/img/GO7-mod3.JPG" />
+<img src="GO7-mod3.JPG" />
 
 **How might it be dangerous and to whom?**
 ===
@@ -60,7 +60,7 @@ By imposing unauthorized AR interventions depicting modern environmental threats
 
 *History:* There is an extensive body of scholarly literature on (a) environmental and climate history in Canada, and (b) Canadian landscape imagery and its meanings. We need to narrow our scope and develop a manageable bibliography for the historical underpinnings of this project. As well, we have kinks to work out regarding “the space between” and how to communicate this through the project. 
 
-*Logistics:* Specific images have to be selected, and their augmentations have to be created. Length of AR experience to be determined (what is manageable and digestible for the visitor). 
+*Logistics:* Specific images have to be selected, and their augmentations have to be created. Length of AR experience to be determined (what is manageable and digestible for the visitor). How to integrate accessibility into the app experience (image descriptions for screen readers, for example). 
 
 *Potential conclusions:* Should we present a set of conclusions on what we think these reimaginings tell us about the current state of the climate crisis, or should we let viewers draw their own conclusions after being encouraged to consider the issue through an historical-lens? How much agency do we give the viewer? As well, how much should be communicated textually versus visually? Here lies a tension between visual art and history with which this project must grapple.
 
