@@ -34,7 +34,7 @@ This project is not done with the intention of discrediting the work of the Grou
 
 ![alttext](GO7-mod3.jpg)
 
-<img src="static/img/GO7-mod3.jpg" />
+<img src="/static/img/GO7-mod3.jpg" />
 
 <img src="/static/img/GO7-mod3.jpg" width="800" />
 
@@ -47,12 +47,16 @@ Being guerrilla
 ---
 The guerrilla aspect of this work is that we are offering this content to viewers without explicit textual interpretation. With this approach, we are asking viewers to consider the image in changing historical contexts as well as their own involvement in the image and the world it represents. 
 
+<img src="/static/img/GO7-mod1.jpg" width="800" />
+
 **How has your chosen tech been used in Ottawa? How could it be used? What are its affordances and edges? Where and why do these resonate with the history you wish to tell/explore?** 
 ===
 
 *ARtful Environments* is a guerrilla augmented reality (AR) project that engages with Group of Seven paintings in the National Gallery of Canada’s permanent collection. Using a narrative-based AR interface - ARIS - this project allows gallery visitors to scan select paintings, and discover an alternative and contemporary visual retelling of the painting which acknowledges and explores a near-century of environmental degradation.
 
 By imposing unauthorized AR interventions depicting modern environmental threats upon paintings of Canadian landscapes, this project reimagines the narratives of environment-focused paintings in the present-day context and calls viewers to consider the “space in between,” from the painting provenance to the present. This “space in between” is the historical context.
+
+<img src="/static/img/GO7-mod2.jpg" width="800" />
 
 AR has been used at the National Gallery before at the [Anthropocene exhibit](https://www.gallery.ca/for-professionals/media/press-releases/breathtaking-photographs-and-films-immersive-augmented) last fall. 
 
