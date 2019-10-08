@@ -30,7 +30,7 @@ Our aim is to enter into a dialogue with the artwork, using digital tools to exp
 
 This project is not done with the intention of discrediting the work of the Group of Seven. Rather, the intention is to identify the nuance and environmental-consciousness already present in their works and reconcile this with our contemporary context.  
 
-<img src="/static/img/GO7-mod3.jpg" />
+<img src="static/img/GO7-mod3.jpg" />
 
 **How might it be dangerous and to whom?**
 ===
