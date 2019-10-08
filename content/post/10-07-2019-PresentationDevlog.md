@@ -32,10 +32,6 @@ Our aim is to enter into a dialogue with the artwork, using digital tools to exp
 
 This project is not done with the intention of discrediting the work of the Group of Seven. Rather, the intention is to identify the nuance and environmental-consciousness already present in their works and reconcile this with our contemporary context.  
 
-![](GO7-mod3.png)
-
-<img src="img/GO7-mod3.jpg" />
-
 ![alternativetxt](/img/GO7-mod3.jpg)
 
 **How might it be dangerous and to whom?**
@@ -47,7 +43,7 @@ Being guerrilla
 ---
 The guerrilla aspect of this work is that we are offering this content to viewers without explicit textual interpretation. With this approach, we are asking viewers to consider the image in changing historical contexts as well as their own involvement in the image and the world it represents. 
 
-<img src="/static/img/GO7-mod1.jpg" />
+![GO7](/img/GO7-mod1.jpg)
 
 **How has your chosen tech been used in Ottawa? How could it be used? What are its affordances and edges? Where and why do these resonate with the history you wish to tell/explore?** 
 ===
@@ -56,7 +52,7 @@ The guerrilla aspect of this work is that we are offering this content to viewer
 
 By imposing unauthorized AR interventions depicting modern environmental threats upon paintings of Canadian landscapes, this project reimagines the narratives of environment-focused paintings in the present-day context and calls viewers to consider the “space in between,” from the painting provenance to the present. This “space in between” is the historical context.
 
-<img src="/static/img/GO7-mod2.jpg" />
+![alttext](/img/GO7-mod2.jpg)
 
 AR has been used at the National Gallery before at the [Anthropocene exhibit](https://www.gallery.ca/for-professionals/media/press-releases/breathtaking-photographs-and-films-immersive-augmented) last fall. 
 
