@@ -12,9 +12,7 @@ comments: false  # Show comments?
 header:
   caption: ""
   image: ""
-  
-  
-<img src="static/img/GO7-mod3.jpg" />
+
 ---
 
 **What stories do you think you’ll be addressing? Why this story?**
