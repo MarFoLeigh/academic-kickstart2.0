@@ -34,8 +34,9 @@ This project is not done with the intention of discrediting the work of the Grou
 
 ![](GO7-mod3.png)
 
-<img src="/static/img/GO7-mod3.jpg" />
+<img src="img/GO7-mod3.jpg" />
 
+![alternativetxt](/img/GO7-mod3.jpg)
 
 **How might it be dangerous and to whom?**
 ===
