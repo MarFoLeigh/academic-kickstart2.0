@@ -19,7 +19,7 @@ header:
 
 *ARtful Environments* reimagines the story of Canadian environment as depicted by the Group of Seven.  The Group of Seven’s paintings,  created between 1920 and 1933, are iconic in their representations of Canadian landscape, and as such they offer an opportunity to open an historically-rooted dialogue about environmental degradation and the climate crisis.This is not specifically an Ottawa story, but rather a national and international story that is anchored by this city and it’s reputation as the national capital. 
 
-This project, and the stories it tackles, and its methods are conceptualized through four main pillars:
+This project, the stories it tackles, and its methods are conceptualized through four main pillars:
 ---
 1. Canadian landscape art & the Group of Seven 
 2. Digital interventions in museum spaces  
