@@ -43,7 +43,7 @@ Being guerrilla
 ---
 The guerrilla aspect of this work is that we are offering this content to viewers without explicit textual interpretation. With this approach, we are asking viewers to consider the image in changing historical contexts as well as their own involvement in the image and the world it represents. 
 
-![alttext](/img/GO7-mod1.jpg)
+![alternativetxt](/img/GO7-mod1.jpg)
 
 **How has your chosen tech been used in Ottawa? How could it be used? What are its affordances and edges? Where and why do these resonate with the history you wish to tell/explore?** 
 ===
