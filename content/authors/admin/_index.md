@@ -20,7 +20,15 @@ organizations:
   url: https://orcid.org/0000-0003-4313-4108
   
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Canadian history, deindustrialization and gentrification, digital humanities, memory, space and place, and public history. 
+bio: Marissa is a second year MA student studying public history and digital humanities at Carleton University. Currently, she is creating the *Reclaiming Jamesville* oral history project, which collects place memories of Hamilton, Ontario's Jamesville neighbourhood neighbourhood and curates them into an audio walk. 
+
+interests:
+- local history 
+- Canadian social & cultural history
+- deindustrialization & gentrification  
+- memory & place 
+- commemoration
+- digital humanities  
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
